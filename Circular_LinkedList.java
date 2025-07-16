@@ -1,5 +1,3 @@
-package DSA.LinkedList;
-import java.util.*;
 
 class Node2 {
     int data;

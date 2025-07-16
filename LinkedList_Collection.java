@@ -1,5 +1,4 @@
-package DSA.LinkedList;
-import java.util.*;
+import java.util.LinkedList;
 public class LinkedList_Collection {
 	
 	    LinkedList<Integer> list = new LinkedList<>();
