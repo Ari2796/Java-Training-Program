@@ -1,4 +1,4 @@
-import java.util.LinkedList;
+import java.util.*;
 public class LinkedList_Collection {
 	
 	    LinkedList<Integer> list = new LinkedList<>();

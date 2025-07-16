@@ -7,7 +7,7 @@ class Node1 {
 
     public Node1(int x) {
         this.data = x;
-        this.prev = null;
+        this.prev = null;//hnf
         this.next = null;
     }
 }
