@@ -40,8 +40,6 @@ class stack{
 			System.out.println();
 		}
 	
-
-	
 }
 public class StackUsingLinkedList {
 	public static void main(String[] args) {

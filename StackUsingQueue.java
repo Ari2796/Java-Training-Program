@@ -23,7 +23,6 @@ public class StackUsingQueue {
     public boolean isEmpty() {
         return x.isEmpty();
     }
-    
     public static void main(String[] args) {
     	StackUsingQueue sq=new StackUsingQueue();
     	sq.push(10);

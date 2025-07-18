@@ -1,4 +1,3 @@
-
 public class StackUsingArray {
 	private int top;
 	private int a[];
