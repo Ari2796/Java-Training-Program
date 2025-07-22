@@ -1,4 +1,3 @@
-package CircularQueue;
 
 class ArrayQueue {
     private int front, rear, size, cap;
