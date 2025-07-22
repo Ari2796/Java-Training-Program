@@ -1,4 +1,3 @@
-
 class ArrayQueue {
     private int front, rear, size, cap;
     private int[] queue;
